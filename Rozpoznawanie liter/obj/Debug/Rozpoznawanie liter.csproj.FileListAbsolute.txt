@@ -1,0 +1,42 @@
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe.config
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.pdb
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csprojAssemblyReference.cache
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Form1.resources
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Properties.Resources.resources
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.GenerateResource.cache
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.CoreCompileInputs.cache
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.exe
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.pdb
+C:\Users\Waha Waszyński\source\repos\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.ShowMemoryVeight.resources
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe.config
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.pdb
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Form1.resources
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Properties.Resources.resources
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.ShowMemoryVeight.resources
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.GenerateResource.cache
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.CoreCompileInputs.cache
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.exe
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.pdb
+C:\Users\Waha Waszyński\Desktop\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csprojAssemblyReference.cache
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe.config
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.pdb
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Form1.resources
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Properties.Resources.resources
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.ShowMemoryVeight.resources
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.GenerateResource.cache
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.exe
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.pdb
+E:\studia\Systemy Sztucznej Inteligencji\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csprojResolveAssemblyReference.cache
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe.config
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.exe
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csprojAssemblyReference.cache
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Form1.resources
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie_liter.Properties.Resources.resources
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.GenerateResource.cache
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.csproj.CoreCompileInputs.cache
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.exe
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\obj\Debug\Rozpoznawanie liter.pdb
+D:\STUDIA\2 rok\semestr_4\systemy sztucznej inteligencji\Rozpoznawanie liter_17_x_17\Rozpoznawanie liter\Rozpoznawanie liter\bin\Debug\Rozpoznawanie liter.pdb
